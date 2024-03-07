@@ -63,8 +63,12 @@ Follow official channels like [r/Monero](https://www.reddit.com/r/Monero/) and c
 ## 6. Security and Privacy Tips
 - **Securing the Wallet:** Reference the [User Guides](https://www.getmonero.org/resources/user-guides/) for security best practices from official Monero documentation. If using a hardware wallet, follow the manufacturer's instructions for setup and backup.
 - **Enhancing Privacy:** Use VPNs or Tor when conducting transactions to hide your IP address. Be mindful of metadata leakage from wallet apps on phones. Avoid address reuse and understand the implications of transaction linkability. 
-- **Verifying Binaries:** Ensure the software you download is legitimate.
-- **Remaining Anonymous:** Consider the implications of associating your real identity with transactions and balances.
+- **Verifying Binaries:** Ensure the software you download is legitimate by checking PGP signatures.
+- **Remaining Anonymous:** Consider the implications of associating your real identity with transactions and balances on exchanges and peer-to-peer platforms. Use encrypted messaging for sensitive communications.
+- **Operational Security:** Use strong unique passwords, enable 2FA on exchange accounts, and be cautious about phishing attempts.
+- **Running a Full Node:** If possible, run a full Monero node to support decentralization and have the most up-to-date blockchain data. Refer to the [Run a Monero Node](https://www.getmonero.org/get-started/full-node/) guide.
+- **Avoiding Custodial Services**: Be cautious of custodial wallets and services that undermine Monero's privacy benefits. Use non-custodial wallets whenever possible.
+- **Updating Software:** Keep Monero software updated to have the latest features, bug fixes, and security enhancements.
 
 Regularly update yourself on Monero's technological advancements.
 
@@ -77,6 +81,14 @@ Resources include:
 - Syncing issues: Try changing remote nodes
 - Transaction questions: Verify on [XMRchain](https://xmrchain.net/)   
 - Other questions: Visit [Monero SE](https://monero.stackexchange.com/)
+
+
+## 8. Contributing to Monero
+To learn more about Monero development and potentially contribute:
+- Explore the official [Monero GitHub repositories](https://github.com/monero-project) 
+- Join development discussions on [IRC channels](https://monero.org/community/)
+- Read [Monero Research Lab publications](https://www.getmonero.org/resources/research-lab/) 
+- Participate in the [Monero Debugging & Testing subforum](https://forum.getmonero.org/23/bugs-testing-debugging)
 
 
 ## Disclaimer
